@@ -10,3 +10,9 @@ The value of the custom field should be in the format:
 ```
 /<github-org>/<github-repo>/issues/<issue-id>
 ```
+
+## Quickstart
+
+- Download the crx file.
+- Drag it onto the Chrome Extensions settings page.
+- Click `options` and configure the credentials
