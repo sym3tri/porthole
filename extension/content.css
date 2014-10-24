@@ -1,0 +1,16 @@
+.porthole-notice {
+  display:block;
+  border:solid 5px magenta;
+  padding:4px 10px;
+  margin-bottom: 10px;
+}
+
+.porthole-notice h1 {
+  color: magenta;
+  font-size: 14px;
+  margin: 4px 0;
+}
+
+.porthole-notice ul {
+  list-style:none;
+}

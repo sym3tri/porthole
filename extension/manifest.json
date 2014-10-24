@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "porthole",
+  "version": "0.1.0",
+
+  "description": "displays matching zendesk tickets on a github repo",
+  "homepage_url": "https://github.com/sym3tri/porthole",
+
+  "options_page": "options.html",
+
+  "content_scripts": [{
+    "matches": ["http://github.com/*", "https://github.com/*"],
+    "js": ["content.js"],
+    "css": ["content.css"]
+  }],
+
+  "permissions": [
+    "storage",
+    "https://coreos.zendesk.com/*",
+    "http://github.com/*",
+    "https://github.com/*"
+  ]
+}
