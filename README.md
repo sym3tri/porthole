@@ -13,12 +13,15 @@ The value of the custom field should be in the format:
 
 ## Quickstart
 
-### Extension Setup
+- [https://chrome.google.com/webstore/detail/porthole/jlmnbfebhbnenomfoodmcidndccnfapa](Install from Chrome Webstore)
+- Click `options` and configure the credentials
+
+## Install Other Versions
 - Download the crx file.
 - Drag it onto the Chrome Extensions settings page.
 - Click `options` and configure the credentials
 
-### Zendesk Setup
+## Zendesk Setup
 - Log into Zendesk
 - Click the "Gear" (aka Admin) Icon in the lower left corner
 - Click "Ticket Fields" under "Manage"
