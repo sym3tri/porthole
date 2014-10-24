@@ -1,7 +1,7 @@
 Porthole
 ========
 
-A window into your customer's issues.
+A window into your customer issues.
 
 Hits the zendesk API and displays matching zendesk tickets on a github repo.
 
