@@ -13,7 +13,7 @@ The value of the custom field should be in the format:
 
 ## Quickstart
 
-- [https://chrome.google.com/webstore/detail/porthole/jlmnbfebhbnenomfoodmcidndccnfapa](Install from Chrome Webstore)
+- [Install from Chrome Webstore](https://chrome.google.com/webstore/detail/porthole/jlmnbfebhbnenomfoodmcidndccnfapa)
 - Click `options` and configure the credentials
 
 ## Install Other Versions
